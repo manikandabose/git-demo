@@ -1,2 +1,6 @@
 first file
 modifying first time
+-------------
+
+Cloned through desktop app
+Modify the file again and push it to master branch back
